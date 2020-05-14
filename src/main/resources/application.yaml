@@ -1,0 +1,5 @@
+honeycomb:
+  beeline:
+    write-key: ***
+    service-name: demo
+    dataset: demo
